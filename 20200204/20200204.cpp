@@ -1,4 +1,4 @@
-// this is problem of " a+b"
+// this is problem of " a+b" by c++
 
 #include <iostream>
 using namespace std;
