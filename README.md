@@ -1,1 +1,1 @@
-# bj_practice
+This is my practice before submitting baekjoon site.
