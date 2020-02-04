@@ -1,4 +1,4 @@
-//1330 backjoon
+//1330 backjoon c, c++ is same way
 
 #include <iostream>
 
