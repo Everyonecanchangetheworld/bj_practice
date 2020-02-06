@@ -1,4 +1,4 @@
-//fail _ 2562
+//success _ 2562
 #include <iostream>
 //#include <math.h>
 //#include <cstdlib>
