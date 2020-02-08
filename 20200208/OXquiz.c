@@ -6,7 +6,7 @@ Because when I receive string by 'scanf' to OXstring
 OXstring length is wrong far above intention.
 and OXstring[j] != '\0'  this sentence is not working well
 I dont know why now.. 
-The
+In internet , there is no exact information about this
 */
 #include <stdio.h>
 
